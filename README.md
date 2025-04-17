@@ -41,7 +41,7 @@ This module depends on the [recurrent_gemma](https://github.com/google-deepmind/
 Please check the quickstart colab to see how to instantiate the model and run inference.
 
 [![Open In
-Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/trecvit/blob/main/colabs/trecvit_demo.ipynb)
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/trecvit/blob/main/colabs/trecvit_demo.ipynb)
 
 ## Pretrained Checkpoints
 
