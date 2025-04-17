@@ -1,0 +1,18 @@
+[project]
+name = "trecvit"
+version = "0.1.0"
+description = "TRecViT codebase from Google DeepMind."
+dependencies = [
+
+  "recurrentgemma@git+https://github.com/google-deepmind/recurrentgemma",
+  "flax",
+  "jax",
+  "numpy",
+  "einops",
+
+]
+
+
+[tool.setuptools.packages.find]
+where = ["."]  # list of folders that contain the packages (["."] by default)
+include = ["trecvit*"]  # package names should match these glob patterns (["*"] by default)
