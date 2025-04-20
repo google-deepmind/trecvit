@@ -9,7 +9,7 @@ and MLPs for mixing over channels. This architecture achieves SOTA results on SS
 
 The model can be trained in supervised or self-supervised regimes (e.g. masked auto-encoding).
 
-TrecViT Paper: https://arxiv.org/abs/2412.14294
+TRecViT Paper: https://arxiv.org/abs/2412.14294
 
 ![architecture diagram](./figures/diagram.png)
 
