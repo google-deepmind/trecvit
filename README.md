@@ -48,6 +48,8 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 We release pretrained checkpoints for supervised classification using TRecViT-B on Kinetics400:
 https://storage.mtls.cloud.google.com/trecvit/model_checkpoints/trecvit_B_k400.npz
 
+And masked-autoencoding: https://storage.googleapis.com/dm-perception-test/trecvit/trecvit_B_mae.npz
+
 Additional checkpoints could be released in the future if requested.
 
 ## Citing this work
